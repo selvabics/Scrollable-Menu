@@ -1,0 +1,12 @@
+PODS:
+  - CMTabbarView (0.1.1)
+
+DEPENDENCIES:
+  - CMTabbarView
+
+SPEC CHECKSUMS:
+  CMTabbarView: 6a66fa1f17a0c789c8484c26d7bd17fd6189fa7e
+
+PODFILE CHECKSUM: 85d6cbb9bb80c8f2aa59ad430cd9b690e33c793d
+
+COCOAPODS: 1.2.0
